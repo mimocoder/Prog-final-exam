@@ -1,6 +1,6 @@
 # Prog-final-exam
 
-// Question 1//
+//Question 1//
 
 import java.util.*;
 import java.util.Scanner;
